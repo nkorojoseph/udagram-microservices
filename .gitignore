@@ -44,3 +44,8 @@ venv/
 
 .env
 set_env.sh
+deployment*
+env*
+service*
+aws-secret.yaml
+.travis.yml
