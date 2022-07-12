@@ -49,3 +49,5 @@ env*
 service*
 aws-secret.yaml
 .travis.yml
+*.travis.yml*
+set_env.sh
